@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/size_item.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/size_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_likepage.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/fragment_likepage.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/categorymain_item.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/categorymain_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_mainpage.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/fragment_mainpage.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cartpage.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/fragment_cartpage.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/like_item.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/like_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_detailspage.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/fragment_detailspage.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cartproduct_item.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/cartproduct_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shoedisplaymain_item.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/shoedisplaymain_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_signup.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_signin.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/ShoeApp-main/app/src/main/res/layout/fragment_signin.xml"
+    }
+]

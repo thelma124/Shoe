@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/navgraph.xml","javaFiles":["com.example.shoeapp.MainFragmentDirections","com.example.shoeapp.DetailsFragmentDirections","com.example.shoeapp.DetailsFragmentArgs","com.example.shoeapp.SignInFragmentFragmentDirections","com.example.shoeapp.SignUpFragmentDirections","com.example.shoeapp.LikeFragmentDirections"]}]
